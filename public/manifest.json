@@ -1,0 +1,16 @@
+{
+  "name": "MyBudget - 스마트 가계부",
+  "short_name": "MyBudget",
+  "description": "스마트폰에 최적화된 1인 맞춤형 모바일 가계부",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
